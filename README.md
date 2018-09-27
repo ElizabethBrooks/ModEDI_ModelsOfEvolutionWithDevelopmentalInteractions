@@ -1,6 +1,6 @@
 # ModEDI_ModelsOfEvolutionWithDevelopmentalInteractions
 
-## Publication: (Accepted)
+## Publication:
 "ModEDI: An Extendable Software Architecture for Examining the Effects of Developmental Interactions on Evolutionary Trajectories"
 http://www.iccabs.org/
 
